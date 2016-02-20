@@ -1,5 +1,4 @@
-# startbootstrap
-How Build Less files with Grunt?
+#How Build Less files with Grunt?
 
 1. Install Node.js
 
